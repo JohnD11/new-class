@@ -23,7 +23,7 @@ class MyStatelessWidget extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Johns New App'),
+        title: const Text('HAPPY JOHN'),
         actions: <Widget>[
           IconButton(
             icon: const Icon(Icons.navigate_next),
